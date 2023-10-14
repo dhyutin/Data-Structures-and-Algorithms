@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1598707728 source:c:\users\srinivasa charan\desktop\dsa\23aug\week4\week4.c\main.c
+	<stdio.h>
+	"CED19I027_4_Stack.h"
+	<stdlib.h>
+	<math.h>
+
+1598193715 c:\users\srinivasa charan\desktop\dsa\23aug\week4\week4.c\ced19i027_stack.h
+
+1598707362 c:\users\srinivasa charan\desktop\dsa\23aug\week4\week4.c\stack.h
+
+1598707710 c:\users\srinivasa charan\desktop\dsa\23aug\week4\week4.c\ced19i027_4_stack.h
+
+1598725857 source:c:\users\srinivasa charan\desktop\dsa\week4\week4.c\main.c
+	<stdio.h>
+	"CED19I027_4_Stack.h"
+	<stdlib.h>
+	<math.h>
+
+1598725970 c:\users\srinivasa charan\desktop\dsa\week4\week4.c\ced19i027_4_stack.h
+
+1598725858 source:d:\sem3\dsa\week4\week4.c\main.c
+	<stdio.h>
+	"CED19I027_4_Stack.h"
+	<stdlib.h>
+	<math.h>
+
+1598725972 d:\sem3\dsa\week4\week4.c\ced19i027_4_stack.h
+
